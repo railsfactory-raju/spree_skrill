@@ -8,7 +8,7 @@ Gem::Specification.new do |s|
   s.required_ruby_version = '>= 1.8.7'
 
   s.authors     = ['Brian D. Quinn', 'Chris Mar']
-  s.email       = 'support@spreecommerce.com'
+  s.email       = 'raju@railsfactory.org'
   s.homepage    = 'https://github.com/spree/spree_skrill'
 
   s.files         = `git ls-files`.split("\n")
